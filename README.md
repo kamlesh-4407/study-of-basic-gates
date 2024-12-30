@@ -85,6 +85,7 @@ endmodule
  RegisterNumber:24003690
  
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/user-attachments/assets/a1b3c5d8-9b9d-4892-a102-88f35dcdca6f)
 
 
